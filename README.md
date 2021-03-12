@@ -35,7 +35,7 @@ Compared with ExtraTreeClassifier, Random Forest use bootstrap replica but Extra
 
 3. Why this topic is important?
 
-n the recent decades, online news became a new popular source for people to obtain news, and for most of the times, people would only focus on the hot topics. Also, reading and sharing news have become the center of people’s entertainment lives. If we could predict the popularity of news prior to its publication, it would be valuable for social media companies, also some authors and advertisers. They can have a prior understanding on what kind of news will receive more clicks, then they can make certain changes on the news' content to make it more popular.
+In the recent decades, online news became a new popular source for people to obtain news, and for most of the times, people would only focus on the hot topics. Also, reading and sharing news have become the center of people’s entertainment lives. If we could predict the popularity of news prior to its publication, it would be valuable for social media companies, also some authors and advertisers. They can have a prior understanding on what kind of news will receive more clicks, then they can make certain changes on the news' content to make it more popular.
 
 
 
